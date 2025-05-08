@@ -1,3 +1,4 @@
+import { timeStamp } from 'console';
 import React from 'react';
 
 function Home() {
